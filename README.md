@@ -1,5 +1,6 @@
 # Paytm Mall Scraper
-In this project, I have scraped the data of chocolates from PayTM Mall. I have scraped the 1st page only `https://paytmmall.com/shop/search?q=chocolates&from=organic&child_site_id=6&site_id=2&category=101449&page=1&latitude=32.1820774&longitude=76.3448772` and created a html file `scraped_data.html` which will show the scraped data in table format.
+In this project, I have scraped the data of chocolates from PayTM Mall. I have scraped the 1st page only 
+```https://paytmmall.com/shop/search?q=chocolates&from=organic&child_site_id=6&site_id=2&category=101449&page=1&latitude=32.1820774&longitude=76.3448772``` and created a html file `scraped_data.html` which will show the scraped data in table format.
 
 
 ## Requirements
